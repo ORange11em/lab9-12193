@@ -1,6 +1,3 @@
-#include<iostream>
-using namespace std;
-
 int main(){
     int age;
     int property;
@@ -25,6 +22,7 @@ int main(){
                             }
                         }
                     }
+
             }else{
                 if (age < 30){
                    cout <<"Enter your property: ";
